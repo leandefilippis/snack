@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Probando conexión al repositorio</Text>
+      <Text>Probando pull request en ramas</Text>
       <StatusBar style="auto" />
     </View>
   );
